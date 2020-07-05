@@ -6,3 +6,4 @@ b. Java Programming
 c. HTML
 d. CSS
 e. JavaScript
+f. Python programming
