@@ -7,3 +7,5 @@ c. HTML
 d. CSS
 e. JavaScript
 f. Python programming
+g. Bootstrap
+h. PHP
